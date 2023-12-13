@@ -1,5 +1,6 @@
 # C++ Primer
 
-![Imag](https://github.com/MarcoPettri/C-Plus-Plus-Primer/assets/75048742/78136a25-6226-41a0-a3bc-908c2c400031)
+
+![Imag](https://github.com/MarcoPettri/C-Plus-Plus-Primer/assets/75048742/c1b1cd35-e0bf-48c6-8cfa-2eaaf43cc97b)
 
 Exercises and Projects
